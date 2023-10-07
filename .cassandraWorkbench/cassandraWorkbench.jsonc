@@ -1,0 +1,14 @@
+{
+  "name": "Localhost",
+  "contactPoint": "127.0.0.1",
+  "port": 9042,
+  "protocol": "cql",
+  "user": "",
+  "password": "",
+  "localDataCenter": "datacenter1",
+  "executionProfile": {
+    "requestTimeout": 10000,
+    "readTimeout": 3000
+  },
+  "keyspaces": []
+}

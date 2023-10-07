@@ -1,0 +1,1 @@
+{"id":"JsBu2qTkvRA85U16","clusterName":"Cluster AllowAllAuthenticator","keyspace":"todos","body":"SELECT * FROM todos.tasks;","modified":false,"filename":"script_1.cql","source":"action","fsPath":"c:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Faculdade\\8º Período\\NoSQL\\Cassandra\\todolist-cassandra\\.cassandraWorkbench\\saved\\script_1.cql"}

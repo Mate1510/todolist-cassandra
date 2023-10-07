@@ -1,0 +1,1 @@
+[{"id":"6jvbrhSAgV18NYDx","clusterName":"Cluster AllowAllAuthenticator","keyspace":"todos","timestamp":"2023-10-07T05:40:52.312Z","body":"SELECT * FROM todos.tasks;"}]
